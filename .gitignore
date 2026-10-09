@@ -1,2 +1,3 @@
-*out
 *.pdf
+*/out
+*/lib
